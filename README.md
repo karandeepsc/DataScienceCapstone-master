@@ -74,6 +74,3 @@ This is choice was made to increase the speed of the algorithm and to reduce mem
 - ui.R: code necessary for the application interface
 	+ Input: Text box that accepts a phrase, a drop down menu which sets the maximum number of words returned, and an "Analyze Text" button which initiates the algorithm 
 	+ Output: The original phrase, a filtered phrase that is provided to the algorithm, and a table that returns the predicted words
-
-### Shiny App
-Click [https://jdtcob.shinyapps.io/project/](https://jdtcob.shinyapps.io/project/) to view the working application.
